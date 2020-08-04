@@ -1,8 +1,10 @@
+<img width="auto" src="https://github.com/rairongf/rairongf/blob/master/banner.png">
+
 # Rairon Ferreira
 
 ## Eai gente 👋
 Sou apaixonado em aprender e desenvolver para web.
-<br/> Sou um aprendiz. Serei um grande Full Stack Developer :computer:
+<br/> Sou um aprendiz da **Rocketseat**. Serei um grande Full Stack Developer :rocket:
 
 :mortar_board:  &nbsp; Estou estudando **Engenharia da Computação** no **Instituto Nacional de Telecomunicações**
  <br/> :blue_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
