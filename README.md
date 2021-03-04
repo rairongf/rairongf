@@ -9,7 +9,7 @@ Sou apaixonado em aprender e desenvolver para a web.
 :mortar_board:  &nbsp; Estou estudando **Engenharia da Computação** no **Instituto Nacional de Telecomunicações**
  <br/> :blue_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React | Next.js
  <br/> :blush: &nbsp; Posso te ajudar com React | MySQL
- <br/> :computer: &nbsp; Stack que pretendo masterizar: React|Next.js, Node.js, React Native & Typescript
+ <br/> :computer: &nbsp; Stack que pretendo masterizar: React | Next.js, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, seriados e festivais de música eletrônica
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-RaironFerreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raironferreira/)](https://www.linkedin.com/in/raironferreira/)
  | 
