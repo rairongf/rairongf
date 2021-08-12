@@ -12,8 +12,6 @@ Sou apaixonado em aprender e desenvolver para a web e mobile.
  <br/> :computer: &nbsp; Stack que pretendo masterizar: Flutter & Dart, React | Next.js, Node.js, Typescript, 
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, seriados e festivais de música eletrônica
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-RaironFerreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raironferreira/)](https://www.linkedin.com/in/raironferreira/)
- | 
-[![Gmail Badge](https://img.shields.io/badge/-rairon.gf@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rairon.gf@gmail.com)](mailto:rairon.gf@gmail.com)
 
 <!--- Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
