@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/rairongf/rairongf/blob/master/ecomilhas_banner.png">
+<img width="auto" src="https://github.com/rairongf/rairongf/blob/master/ecomilhas_banner_wider.png">
 
 # Rairon Ferreira
 
