@@ -3,14 +3,14 @@
 # Rairon Ferreira
 
 ## Eai gente 👋
-Sou apaixonado em aprender e desenvolver para a web e mobile.
-<br/> Serei um grande Front End developer :rocket:
+Sou apaixonado em aprender e desenvolver para mobile e web.
+<br/> Serei um desenvolvedor Mobile e Front-end de referência :rocket:
 
-:mortar_board:  &nbsp; Estou estudando **Engenharia da Computação** no **Instituto Nacional de Telecomunicações**
- <br/> :blue_heart: &nbsp; Buscando colaborar com projetos em Front-end usando Flutter | React | Next.js
- <br/> :blush: &nbsp; Posso te ajudar com Flutter | Dart | React | MySQL
- <br/> :computer: &nbsp; Stack que pretendo masterizar: Flutter & Dart, React | Next.js, Node.js, Typescript
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, seriados e festivais de música eletrônica
+:mortar_board:  &nbsp; Sou **Engenheiro de Computação** pelo **Instituto Nacional de Telecomunicações**
+ <br/> :blue_heart: &nbsp; Buscando colaborar com projetos Mobile em Flutter | Dart e Front-end em React | Next.js
+ <br/> :blush: &nbsp; Posso te ajudar com Flutter | Dart | SQL | React
+ <br/> :computer: &nbsp; Stack's que pretendo masterizar: Flutter & Dart, React | Next.js, Node.js, Typescript
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, seriados e música eletrônica
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-RaironFerreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raironferreira/)](https://www.linkedin.com/in/raironferreira/)
 
 <!--- Here are some ideas to get you started:
