@@ -1,8 +1,7 @@
-<h2 align="center">Hello earthling! 👋</h2>
+<h3 align="center">Hello earthling! 👋</h3>
 <h3 align="center">Welcome to my GitHub!</h3>
-<br/>
 
-## About me
+### About me
 
 I am passionate about learning and developing for mobile and web.
 <br/>I will be a leading Mobile and Front-end developer 🚀
@@ -17,18 +16,14 @@ I am passionate about learning and developing for mobile and web.
     <a href="https://www.linkedin.com/in/raironferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=plastic&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<br/>
+### Top repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rairongf&repo=eligibility_flutter_firebase&border_radius=8&theme=github_dark_dimmed&hide_border=true)](https://github.com/rairongf/eligibility_flutter_firebase)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rairongf&repo=gummy-notes-api&border_radius=8&theme=github_dark_dimmed&hide_border=true)](https://github.com/rairongf/gummy-notes-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rairongf&repo=program-me&border_radius=8&theme=github_dark_dimmed&hide_border=true)](https://github.com/rairongf/program-me)
 
-## Top repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rairongf&repo=eligibility_flutter_firebase&border_radius=8&theme=github_dark&hide_border=true)](https://github.com/rairongf/eligibility_flutter_firebase)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rairongf&repo=gummy-notes-api&border_radius=8&theme=github_dark&hide_border=true)](https://github.com/rairongf/gummy-notes-api)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rairongf&repo=program-me&border_radius=8&theme=github_dark&hide_border=true)](https://github.com/rairongf/program-me)
-
-<br>
-
-## GitHub Contributions
+### GitHub Contributions
 
 <div>
-    <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=rairongf&show_icons=true&theme=github_dark&count_private=true&hide_border=true&border_radius=8"/>
-    <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rairongf&layout=compact&langs_count=6&theme=github_dark&hide_border=true&border_radius=8"/>
+    <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=rairongf&show_icons=true&theme=github_dark_dimmed&count_private=true&hide_border=true&border_radius=8"/>
+    <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rairongf&layout=compact&langs_count=6&theme=github_dark_dimmed&hide_border=true&border_radius=8"/>
 </div>
