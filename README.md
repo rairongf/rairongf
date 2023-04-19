@@ -1,25 +1,34 @@
-<img width="auto" src="https://github.com/rairongf/rairongf/blob/master/ecomilhas_banner_wider.png">
+<h2 align="center">Hello earthling! 👋</h2>
+<h3 align="center">Welcome to my GitHub!</h3>
+<br/>
 
-# Rairon Ferreira
+## About me
 
-## Eai gente 👋
-Sou apaixonado em aprender e desenvolver para mobile e web.
-<br/> Serei um desenvolvedor Mobile e Front-end de referência :rocket:
+I am passionate about learning and developing for mobile and web.
+<br/>I will be a leading Mobile and Front-end developer 🚀
 
-:mortar_board:  &nbsp; Sou **Engenheiro de Computação** pelo **Instituto Nacional de Telecomunicações**
- <br/> :blue_heart: &nbsp; Buscando colaborar com projetos Mobile em Flutter | Dart e Front-end em React | Next.js
- <br/> :blush: &nbsp; Posso te ajudar com Flutter | Dart | SQL | React
- <br/> :computer: &nbsp; Stack's que pretendo masterizar: Flutter & Dart, React | Next.js, Node.js, Typescript
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, seriados e música eletrônica
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-RaironFerreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raironferreira/)](https://www.linkedin.com/in/raironferreira/)
+<br/>🎓 I have a **Bachelor's degree in Computer Engineering** from **[Inatel](https://inatel.br/home/)**
+<br/>👷 Currently working as a **Flutter Developer** at **[b2ml](https://b2ml.com.br/)** and **Web & Mobile Developer** at **[Ecomilhas](https://ecomilhas.me/)**
+<br/>💻 Practicing on Flutter, React, SOLID, CI/CD and Testing
 
-<!--- Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/raironferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=plastic&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+<br/>
+
+## Top repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rairongf&repo=eligibility_flutter_firebase&border_radius=8&theme=github_dark&hide_border=true)](https://github.com/rairongf/eligibility_flutter_firebase)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rairongf&repo=gummy-notes-api&border_radius=8&theme=github_dark&hide_border=true)](https://github.com/rairongf/gummy-notes-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rairongf&repo=program-me&border_radius=8&theme=github_dark&hide_border=true)](https://github.com/rairongf/program-me)
+
+<br>
+
+## GitHub Contributions
+
+<div>
+    <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=rairongf&show_icons=true&theme=github_dark&count_private=true&hide_border=true&border_radius=8"/>
+    <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rairongf&layout=compact&langs_count=6&theme=github_dark&hide_border=true&border_radius=8"/>
+</div>
