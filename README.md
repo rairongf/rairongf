@@ -14,6 +14,7 @@ I am passionate about learning and developing for mobile and web.
 
 <div align="center">
     <a href="https://www.linkedin.com/in/raironferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=plastic&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://gitlab.b2ml.com.br/raironferreira" target="_blank"><img src="https://img.shields.io/badge/b2ml-GitLab-e2432a?style=plastic&logo=gitlab&logoColor=white" target="_blank"></a>
 </div>
 
 ### Top repositories
