@@ -7,7 +7,7 @@ I am passionate about learning and developing for mobile and web.
 <br/>I will be a leading Mobile and Front-end developer 🚀
 
 <br/>🎓 I have a **Bachelor's degree in Computer Engineering** from **[Inatel](https://inatel.br/home/)**
-<br/>👷 Currently working as a **Flutter Developer** at **[b2ml](https://b2ml.com.br/)** and **Web & Mobile Developer** at **[Ecomilhas](https://ecomilhas.me/)**
+<br/>👷 Currently working as a **Mid-level Developer** at **[b2ml](https://b2ml.com.br/)**
 <br/>💻 Practicing on Flutter, React, SOLID, CI/CD and Testing
 
 <br/>
